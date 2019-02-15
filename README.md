@@ -64,7 +64,7 @@
 
 **Regression, Keras Functional API, Multi Input/Multi Output models in keras**
 
-[15_ Basic-regression-with-Keras.ipynb](https://nbviewer.jupyter.org/github/alireza-akhavan/SRU-deeplearning-workshop/blob/master/15_ Basic-regression-with-Keras.ipynb)
+[15_Basic-regression-with-Keras.ipynb](https://nbviewer.jupyter.org/github/alireza-akhavan/SRU-deeplearning-workshop/blob/master/15_%20Basic-regression-with-Keras.ipynb)
 
 [16_cnn-and-price-regression.ipynb](https://nbviewer.jupyter.org/github/alireza-akhavan/SRU-deeplearning-workshop/blob/master/16_cnn-and-price-regression.ipynb)
 
