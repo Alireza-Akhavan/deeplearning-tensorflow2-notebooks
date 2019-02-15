@@ -12,6 +12,7 @@
 ## Jupyter Notebooks
 
 **What is Image? Image as a data!**
+
 [01_Intro2image&numpy.ipynb](https://nbviewer.jupyter.org/github/alireza-akhavan/SRU-deeplearning-workshop/blob/master/01_Intro2image%26numpy.ipynb)
 
 **Hoda dataset: Persian Handwritten Digit**
