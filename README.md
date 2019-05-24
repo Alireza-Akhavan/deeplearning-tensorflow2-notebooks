@@ -3,7 +3,8 @@
 
 ![workshop](./image/workshop.jpg)
 
-برای خرید این دوره به سایت
+## presentation video
+برای خرید ویدیوهای این دوره به سایت
 [http://class.vision/deeplearning-keras/](http://class.vision/deeplearning-keras/)
 مراجعه نمائید
 ## Presentation Slides
