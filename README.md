@@ -3,6 +3,9 @@
 
 ![workshop](./image/workshop.jpg)
 
+برای خرید این دوره به سایت
+[http://class.vision/deeplearning-keras/](http://class.vision/deeplearning-keras/)
+مراجعه نمائید
 ## Presentation Slides
 
 [SRU-deeplearning-workshop-part1.pdf](https://github.com/Alireza-Akhavan/SRU-deeplearning-workshop/blob/master/slides/SRU-deeplearning-workshop-part1.pdf)
