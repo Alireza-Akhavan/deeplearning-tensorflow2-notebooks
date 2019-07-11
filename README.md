@@ -37,7 +37,8 @@
 
 **Intro to CNN (Convolutional Neural Networks)**
 
-[06_ConvolutionalNeuralNetwork-Hoda-Keras.ipynb](https://nbviewer.jupyter.org/github/alireza-akhavan/SRU-deeplearning-workshop/blob/master/06_ConvolutionalNeuralNetwork-Hoda-Keras.ipynb)
+[06_ConvolutionalNeuralNetwork-Hoda-Keras.ipynb](https://nbviewer.jupyter.org/github/alireza-akhavan/SRU-deeplearning-workshop/blob/master/06_ConvolutionalNeuralNetwork-Hoda-Keras.ipynb)  [open in COLAB](https://colab.research.google.com/github/Alireza-Akhavan/SRU-deeplearning-workshop/blob/master/06_ConvolutionalNeuralNetwork-Hoda-Keras.ipynb)
+
 
 **Practical example. what is keras data generator?**
 
