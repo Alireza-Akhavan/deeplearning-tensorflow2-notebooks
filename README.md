@@ -1,8 +1,6 @@
 # SRU-deeplearning-workshop
 12 Hour Workshop
 
-![workshop](./image/workshop.jpg)
-
 ## presentation video
 برای خرید ویدیوهای این دوره به سایت
 [http://class.vision/deeplearning-keras/](http://class.vision/deeplearning-keras/)
